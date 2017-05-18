@@ -1,0 +1,8 @@
+name: py35tf11np112
+channels:
+    - python
+dependencies:
+    - python=3.5.3
+    - tqdm==4.11.2 
+    - numpy==1.12.*
+    - pandas==0.19.2

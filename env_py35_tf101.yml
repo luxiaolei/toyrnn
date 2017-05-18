@@ -1,0 +1,10 @@
+name: py35tf101np112
+channels:
+    - python
+dependencies:
+    - python=3.5.3
+    - tqdm==4.11.2 
+    - numpy==1.12.1
+    - pandas==0.19.2
+    - pip:
+        - tensorflow-gpu==1.0.1

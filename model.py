@@ -2,8 +2,7 @@
 import tensorflow as tf
 import numpy as np
 import pandas as pd
-import pickle
-import os
+
 
 from tensorflow.contrib.layers.python.layers.initializers import xavier_initializer
 
