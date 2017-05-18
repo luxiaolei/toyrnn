@@ -2,7 +2,7 @@ name: py35tf11np112
 channels:
     - python
 dependencies:
-    - python=3.5.3
+    - python=3.6.0
     - tqdm==4.11.2 
     - numpy==1.12.*
     - pandas==0.19.2
